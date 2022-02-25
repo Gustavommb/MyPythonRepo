@@ -1,2 +1,3 @@
 Fucking resumen
 algunas diferencias..
+trabajando en la rama b ahora estos cambios solo se guardaran en esa rama.
